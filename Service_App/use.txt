@@ -1,0 +1,2 @@
+MailService.exe /install
+MailService.exe /uninstall
